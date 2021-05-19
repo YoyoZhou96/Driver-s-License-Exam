@@ -1,0 +1,30 @@
+C:\Users\xingw\Desktop\8010\week8_– Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\obj\Debug\Driver’s License Exam.csprojAssemblyReference.cache
+C:\Users\xingw\Desktop\8010\week8_– Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\obj\Debug\MainWindow.g.cs
+C:\Users\xingw\Desktop\8010\week8_– Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\obj\Debug\App.g.cs
+C:\Users\xingw\Desktop\8010\week8_– Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\obj\Debug\Driver’s License Exam_MarkupCompile.cache
+C:\Users\xingw\Desktop\8010\week8_– Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\obj\Debug\Driver’s License Exam_MarkupCompile.lref
+C:\Users\xingw\Desktop\8010\week8_– Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\bin\Debug\Driver’s License Exam.exe.config
+C:\Users\xingw\Desktop\8010\week8_– Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\bin\Debug\Driver’s License Exam.exe
+C:\Users\xingw\Desktop\8010\week8_– Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\bin\Debug\Driver’s License Exam.pdb
+C:\Users\xingw\Desktop\8010\week8_– Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\obj\Debug\MainWindow.baml
+C:\Users\xingw\Desktop\8010\week8_– Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\obj\Debug\Driver’s License Exam.g.resources
+C:\Users\xingw\Desktop\8010\week8_– Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\obj\Debug\Driver_s_License_Exam.Properties.Resources.resources
+C:\Users\xingw\Desktop\8010\week8_– Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\obj\Debug\Driver’s License Exam.csproj.GenerateResource.cache
+C:\Users\xingw\Desktop\8010\week8_– Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\obj\Debug\Driver’s License Exam.csproj.CoreCompileInputs.cache
+C:\Users\xingw\Desktop\8010\week8_– Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\obj\Debug\Driver’s License Exam.exe
+C:\Users\xingw\Desktop\8010\week8_– Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\obj\Debug\Driver’s License Exam.pdb
+C:\Users\xingw\Desktop\8010\week8_Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\bin\Debug\Driver’s License Exam.exe.config
+C:\Users\xingw\Desktop\8010\week8_Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\bin\Debug\Driver’s License Exam.exe
+C:\Users\xingw\Desktop\8010\week8_Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\bin\Debug\Driver’s License Exam.pdb
+C:\Users\xingw\Desktop\8010\week8_Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\obj\Debug\Driver’s License Exam.csprojAssemblyReference.cache
+C:\Users\xingw\Desktop\8010\week8_Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\obj\Debug\MainWindow.g.cs
+C:\Users\xingw\Desktop\8010\week8_Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\obj\Debug\App.g.cs
+C:\Users\xingw\Desktop\8010\week8_Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\obj\Debug\Driver’s License Exam_MarkupCompile.cache
+C:\Users\xingw\Desktop\8010\week8_Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\obj\Debug\Driver’s License Exam_MarkupCompile.lref
+C:\Users\xingw\Desktop\8010\week8_Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\obj\Debug\MainWindow.baml
+C:\Users\xingw\Desktop\8010\week8_Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\obj\Debug\Driver’s License Exam.g.resources
+C:\Users\xingw\Desktop\8010\week8_Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\obj\Debug\Driver_s_License_Exam.Properties.Resources.resources
+C:\Users\xingw\Desktop\8010\week8_Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\obj\Debug\Driver’s License Exam.csproj.GenerateResource.cache
+C:\Users\xingw\Desktop\8010\week8_Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\obj\Debug\Driver’s License Exam.csproj.CoreCompileInputs.cache
+C:\Users\xingw\Desktop\8010\week8_Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\obj\Debug\Driver’s License Exam.exe
+C:\Users\xingw\Desktop\8010\week8_Driver’s License Exam\Driver’s License Exam\Driver’s License Exam\obj\Debug\Driver’s License Exam.pdb
